@@ -15,7 +15,7 @@ Each file shall be documented below, with information detailing the source, meth
 
 ## Raw
 
-### `big_cities_demographic_indicators-2026-06-25.tsv`
+### `big_cities_demographic_indicators-2026-06-25.csv`
 
 **Source & Method**
 
