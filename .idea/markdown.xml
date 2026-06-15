@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MarkdownSettings">
+    <option name="customStylesheetText" value="body { line-height: 1.5; max-width: 860px; }&#10;h1 { font-size: 1.8em; margin: 0.6em 0 0.3em; }&#10;h2 { font-size: 1.4em; margin: 1em 0 0.3em; }&#10;h3 { font-size: 1.15em; margin: 0.8em 0 0.2em; }&#10;p { margin: 0.5em 0; }&#10;hr { margin: 1.2em 0; }" />
+    <option name="previewPanelProviderInfo">
+      <ProviderInfo name="Compose (experimental)" className="com.intellij.markdown.compose.preview.ComposePanelProvider" />
+    </option>
+    <option name="useCustomStylesheetText" value="true" />
+  </component>
+</project>
