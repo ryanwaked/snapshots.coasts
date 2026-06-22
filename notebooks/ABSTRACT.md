@@ -9,7 +9,7 @@ unit to be analyzed and the coast as the grouping variable. Although the groupin
 location, it will not be used to suggest causation. Rather, its express purpose is to provide aggregate contextual 
 understanding, which is derived from the metro-level data.
 
-A difference counts as meaningful when [your operational definition, leaning on the CIs].
+A difference counts as meaningful when [operational definition, leaning on the CIs].
 
 Conclusions follow from stated methodology, rely only on documented sources, and are reported with their associated uncertainty.
 
@@ -26,4 +26,3 @@ everyday people living in either region live at.
 
 The findings of this inferential research project will lay the foundation for more methodologically complex research, by 
 providing the basis for more in-depth questions.
-
